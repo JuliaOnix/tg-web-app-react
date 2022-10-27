@@ -1,7 +1,7 @@
 import React from 'react';
 import { useTelegram } from '../../hooks/useTelegram';
 
-const Header = (props) => {
+const Header = () => {
     const {tg, user, onClose} = useTelegram();
 
     return (
