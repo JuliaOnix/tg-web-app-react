@@ -1,7 +1,7 @@
 .button {
     padding: 10px 15px;
     background:blue;
-    color: var(--tg-theme-text-color);
+    color: white;
     border: none;
     outline: none;
     cursor: pointer;
